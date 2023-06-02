@@ -1,4 +1,4 @@
-# Welcome To Kade's Mod For DDLC
+# Welcome To An Archive Of Kade's Mods For DDLC
 
 
 ## Released Mods
@@ -10,6 +10,6 @@
 * Time Made: 30 mins.
 * Play Time: 1 - 5 mins.
 ## Demo Mods
-### The Choices
+### The Choices (Cancelled)
 * Time Made: 2 days.
 * Play Time: 5 mins.
